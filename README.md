@@ -1,5 +1,7 @@
 # 🌱 FasaL
 <img width="653" alt="image" src="https://github.com/user-attachments/assets/4e571bc2-9825-452b-825f-3ea40bf628b7" />
+<img width="1426" alt="image" src="https://github.com/user-attachments/assets/a1f3b236-e512-4f71-9291-e732b4765585" />
+
 
 FasaL is a mobile and web application designed to help farmers learn more about their crops and make informed decisions on crop health and fertilizer requirements. Our project was developed as part of the Smart BU Hackathon organized by Bennett University, where we placed 46th out of 400+ teams.
 
